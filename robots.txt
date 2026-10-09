@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /*.apk$
-
-Sitemap: https://shubhdhanlakshmi.in/sitemap.xml
